@@ -6,18 +6,57 @@ AIM
  To control the status of the given lamp by using two–way switches. 
 APPARATUS REQUIRED:
 
-S. No.
-Name of the apparatus	
-Range / Type	
-Quantity
+<table>
+  <tr>
+    <th>S. No.</th>
+    <th>Name of the Apparatus</th>
+    <th>Range / Type</th>
+    <th>Quantity</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Incandescent Lamp</td>
+    <td>60W</td>
+    <td>1 No.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Lamp Holder</td>
+    <td>Pendent Type</td>
+    <td>1 No.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>SPDT Switch</td>
+    <td>230V, 5A</td>
+    <td>2 Nos.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Wires</td>
+    <td>1/18"</td>
+    <td>As per requirement</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>P.V.C Pipe</td>
+    <td>1/4"</td>
+    <td>As per requirement</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Wooden Board</td>
+    <td>-</td>
+    <td>1 No.</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Round Block</td>
+    <td>-</td>
+    <td>1 No.</td>
+  </tr>
+</table>
 
-1	Incandescent Lamp	60W	1 No.
-2	Lamp Holder	Pendent Type	1 No.
-3	SPDT Switch	230V,5A	2 Nos
-4	Wires	1/18”	As per requirement
-5	P.V.C Pipe	1/4"	As per requirement
-6	Wooden Board	-	1 No.
-7	Round block	-	1 No.
 
 
 Theory:
@@ -39,12 +78,28 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
+Direct connection(XNOR):
+CIRCUIT DIAGRAM: 
+
+<img width="1629" height="735" alt="Screenshot 2026-10-22 092919" src="https://github.com/user-attachments/assets/426550e4-5bba-4f4b-8eb9-9e7ef6fbf538" />
+
+<img width="1627" height="679" alt="Screenshot 2026-10-22 092942" src="https://github.com/user-attachments/assets/e09680f5-c61d-4601-9ee8-55157bb204c4" />
+
 Tabulation:1
-	
-Cross connection: CIRCUIT DIAGRAM:
+
+<img width="960" height="1280" alt="XNOR tab col handwritten" src="https://github.com/user-attachments/assets/1bf273d0-9a99-42a1-93eb-947ed6c0af13" />
+
+Cross connection(XOR):
+CIRCUIT DIAGRAM:
+
+<img width="1661" height="755" alt="Screenshot 2026-10-22 090940" src="https://github.com/user-attachments/assets/e79cec57-c1e3-467a-95d0-6f1179cd9e8d" />
+
+<img width="1621" height="662" alt="Screenshot 2026-10-22 091051" src="https://github.com/user-attachments/assets/e46f7ac9-f00b-4cd8-9288-8a5193c4d69e" />
+
 
 Tabulation:2
+
+<img width="960" height="1280" alt="xor tab column handwritten" src="https://github.com/user-attachments/assets/18c8bbae-0932-4787-8d45-a95ab666d97c" />
 
 RESULT:
 Thus the staircase wiring is connected and tested.
